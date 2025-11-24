@@ -13,7 +13,7 @@ convex
     no server management (they do it)
 
 **Full Project Structure:**
-my-portfolio-store/
+my-store/
 ├── app/
 │   ├── page.tsx           # Homepage/Portfolio
 │   ├── shop/
