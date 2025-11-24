@@ -36,3 +36,7 @@ my-store/
 │   └── globals.css        # Tailwind styles
 └── public/
     └── images/
+
+need to do
+make page use tailwind css 
+set up stripe
