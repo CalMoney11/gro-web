@@ -1,7 +1,12 @@
 {
   "dependencies": {
-    "@stripe/stripe-js": "^8.5.2",
+    "@stripe/stripe-js": "^8.5.3",
     "convex": "^1.29.3",
     "stripe": "^20.0.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.22",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.17"
   }
 }
